@@ -10,9 +10,9 @@ Usage
 
 ```sh
 $ password-generator 
-Master password: <<Type your master password here>>
-Password hash is 6nAeqHv2. Right? [Y/n] <<Press Enter key if it is correct.>>
-Domain: github <<Type domain name>>
+Master password: ← Type your master password here
+Password hash is 6nAeqHv2. Right? [Y/n] ← Press Enter key if it is correct.
+Domain: github.com ← Type a domain in lower case.
 Password was copied to your clipboard.
 ```
 
